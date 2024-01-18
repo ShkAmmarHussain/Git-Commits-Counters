@@ -60,10 +60,10 @@
 #     return commit_info
 
 # if __name__ == "__main__":
-#     # remote_url = "https://gitlab.com/Codistan/bizb/seller-admin.git"  # Replace with your repository URL
+#     # remote_url = ""  # Replace with your repository URL
 #     # filter_branches = ['staging', 'master']  # Add branches to filter
     
-#     remote_url = "https://gitlab.com/Codistan/artificial-intelligence/qaiser-test-task.git"
+#     remote_url = ""
 #     filter_branches = ['dev', 'test']
 #     commit_info = count_commits(remote_url, filter_branches)
 
