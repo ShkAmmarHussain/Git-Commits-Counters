@@ -125,8 +125,8 @@ def process_gitlab_group(group_path, token):
 
 if __name__ == "__main__":
     # Provide your GitLab group path and API token
-    gitlab_group_path = "Codistan"
-    gitlab_token = "glpat-2Z7bXvcnk8wx6YAtM-B5"
+    gitlab_group_path = ""
+    gitlab_token = ""
 
     # Process GitLab group and print results
     results = process_gitlab_group(gitlab_group_path, gitlab_token)
